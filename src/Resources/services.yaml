@@ -1,0 +1,3 @@
+services:
+  niklesh\HealthCheckBundle\Controller\HealthController:
+    autoconfigure: true
