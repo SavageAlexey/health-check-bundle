@@ -10,7 +10,6 @@
         "symfony/flex": "^1.0",
         "symfony/framework-bundle": "^4.1",
         "sensio/framework-extra-bundle": "^5.2",
-        "symfony/lts": "4.1.99",
         "symfony/yaml": "^4.1"
     },
     "require-dev": {
