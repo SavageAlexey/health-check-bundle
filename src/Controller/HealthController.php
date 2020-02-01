@@ -1,8 +1,8 @@
 <?php
 
-namespace niklesh\HealthCheckBundle\Controller;
+namespace savageh\HealthCheckBundle\Controller;
 
-use niklesh\HealthCheckBundle\Service\HealthInterface;
+use savageh\HealthCheckBundle\Service\HealthInterface;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\Routing\Annotation\Route;
