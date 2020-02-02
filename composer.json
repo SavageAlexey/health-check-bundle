@@ -3,16 +3,13 @@
     "license": "proprietary",
     "name": "savageh/health-check",
     "description": "Health check bundle",
-    "version": "0.0.10",
+    "version": "0.0.11",
     "require": {
-        "php": "^7.1.3",
-        "ext-ctype": "*",
-        "ext-iconv": "*",
+        "php": "^7.1",
+        "symfony/config": "4.1.*",
         "symfony/flex": "^1.3.1",
         "symfony/framework-bundle": "4.1.*",
-        "sensio/framework-extra-bundle": "^5.2",
-        "symfony/skeleton": "4.1.*",
-        "symfony/yaml": "4.1.*"
+        "symfony/monolog-bundle": "^3.2"
     },
     "require-dev": {
     },
