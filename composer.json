@@ -3,7 +3,7 @@
     "description": "Health check bundle",
     "type": "symfony-bundle",
     "license": "proprietary",
-    "version": "0.0.18",
+    "version": "0.0.19",
     "autoload": {
       "psr-4": {
         "savageh\\HealthCheckBundle\\": "src"
