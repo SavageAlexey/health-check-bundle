@@ -1,6 +1,6 @@
 <?php
 
-namespace niklesh\HealthCheckBundle\Entity;
+namespace savageh\HealthCheckBundle\Entity;
 
 class CommonHealthData implements HealthDataInterface
 {
