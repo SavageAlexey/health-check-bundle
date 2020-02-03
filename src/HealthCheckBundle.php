@@ -4,8 +4,8 @@ namespace savageh\HealthCheckBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
-use savageh\HealthCheckBundle\DependencyInjection\Compiler\HealthServicesPath;
-use savageh\HealthCheckBundle\Service\HealthInterface;
+use savageh\HealthCheckBundle\DependencyInjection\Compiler\HealthServicesPath as HealthServicesPath;
+use savageh\HealthCheckBundle\Service\HealthInterface as HealthInterface;
 
 /**
  * Class HealthCheckBundle
