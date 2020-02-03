@@ -1,9 +1,9 @@
 <?php
 
-namespace niklesh\HealthCheckBundle;
+namespace savageh\HealthCheckBundle;
 
-use niklesh\HealthCheckBundle\DependencyInjection\Compiler\HealthServicesPath;
-use niklesh\HealthCheckBundle\Service\HealthInterface;
+use savageh\HealthCheckBundle\DependencyInjection\Compiler\HealthServicesPath;
+use savageh\HealthCheckBundle\Service\HealthInterface;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

@@ -1,8 +1,8 @@
 <?php
 
-namespace niklesh\HealthCheckBundle\Service;
+namespace savageh\HealthCheckBundle\Service;
 
-use niklesh\HealthCheckBundle\Entity\HealthDataInterface;
+use savageh\HealthCheckBundle\Entity\HealthDataInterface;
 
 interface HealthInterface
 {

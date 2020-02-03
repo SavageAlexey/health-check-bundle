@@ -1,9 +1,9 @@
 <?php
 
-namespace niklesh\HealthCheckBundle\DependencyInjection\Compiler;
+namespace savageh\HealthCheckBundle\DependencyInjection\Compiler;
 
-use niklesh\HealthCheckBundle\Controller\HealthController;
-use niklesh\HealthCheckBundle\Service\HealthInterface;
+use savageh\HealthCheckBundle\Controller\HealthController;
+use savageh\HealthCheckBundle\Service\HealthInterface;
 use Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Reference;

@@ -1,6 +1,6 @@
 <?php
 
-namespace niklesh\HealthCheckBundle\DependencyInjection;
+namespace savageh\HealthCheckBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
